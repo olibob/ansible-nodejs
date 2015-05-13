@@ -1,0 +1,5 @@
+---
+# vars file for nodejs
+major: 0
+minor: 12
+patch: 2

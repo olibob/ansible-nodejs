@@ -1,0 +1,5 @@
+---
+# defaults file for nodejs
+node_major: 0
+node_minor: 12
+node_patch: 2
